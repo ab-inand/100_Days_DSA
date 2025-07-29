@@ -1,0 +1,26 @@
+#include <iostream>
+
+int main() {
+    
+    int age = 30;        
+    long population = 8000000000L; 
+
+
+    float temperature = 25.5f;
+    double pi = 3.14159;       
+
+    
+    char grade = 'A'; 
+
+    
+    bool isStudent = true; 
+
+    std::cout << "Age: " << age << std::endl;
+    std::cout << "Population: " << population << std::endl;
+    std::cout << "Temperature: " << temperature << std::endl;
+    std::cout << "Pi: " << pi << std::endl;
+    std::cout << "Grade: " << grade << std::endl;
+    std::cout << "Is student: " << isStudent << std::endl; // true prints as 1, false as 0
+
+    return 0;
+}
