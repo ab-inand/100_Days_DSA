@@ -1,0 +1,37 @@
+#include <iostream>
+
+int main() {
+    int a = 10, b = 5;
+
+    // Arithmetic Operators
+    std::cout << "a + b = " << (a + b) << std::endl; // Addition
+    std::cout << "a - b = " << (a - b) << std::endl; // Subtraction
+    std::cout << "a * b = " << (a * b) << std::endl; // Multiplication
+    std::cout << "a / b = " << (a / b) << std::endl; // Division (integer division)
+    std::cout << "a % b = " << (a % b) << std::endl; // Modulo (remainder)
+
+    // Assignment Operators
+    int c = a; // Assigns value of a to c
+    c += 2;    // c = c + 2
+    std::cout << "c after c += 2: " << c << std::endl;
+
+    // Comparison Operators (return true or false)
+    std::cout << "a > b: " << (a > b) << std::endl;   // Greater than
+    std::cout << "a == b: " << (a == b) << std::endl; // Equal to
+    std::cout << "a != b: " << (a != b) << std::endl; // Not equal to
+
+    // Logical Operators
+    bool x = true, y = false;
+    std::cout << "x && y: " << (x && y) << std::endl; // Logical AND
+    std::cout << "x || y: " << (x || y) << std::endl; // Logical OR
+    std::cout << "!x: " << (!x) << std::endl;         // Logical NOT
+
+    // Increment/Decrement Operators
+    int i = 0;
+    std::cout << "i++: " << i++ << std::endl; // Post-increment (uses current value, then increments)
+    std::cout << "i: " << i << std::endl;
+    std::cout << "++i: " << ++i << std::endl; // Pre-increment (increments, then uses new value)
+    std::cout << "i: " << i << std::endl;
+
+    return 0;
+}
