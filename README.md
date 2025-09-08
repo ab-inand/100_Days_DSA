@@ -1,6 +1,7 @@
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/banners/pro.webp" alt="A banner image with a coding theme and the text 'Development'"/>
+   <img width="1022" height="590" alt=" banner image with a coding theme and the text 'Development'c" src="https://github.com/user-attachments/assets/0bb94ed8-163c-4260-b104-baedd34c4ad9" />
 
   <h1>100 Days of C++</h1>
 
