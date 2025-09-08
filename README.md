@@ -6,9 +6,10 @@
   <p>My journey to master DSA one day at a time. This repository documents my daily progress, projects, and key learnings.</p>
 
   <p>
+    <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-2%2F100-brightgreen?style=for-the-badge" alt="Day 2/100 Badge"/>
+    <img src="https://img.shields.io/badge/Day-1%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 
 </div>
