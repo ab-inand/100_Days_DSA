@@ -9,7 +9,7 @@
   <p>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-1%2F100-brightgreen?style=for-the-badge" alt="Day 1/100 Badge"/>
+    <img src="https://img.shields.io/badge/Day-1%2F100-brightgreen?style=for-the-badge" alt="Day 2/100 Badge"/>
   </p>
 
 </div>
@@ -22,7 +22,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 
 | Day | Focus / Topics Covered                                                      | View The Code                                                                    |
 |:---:|:----------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][day-1-shield]](./Day01/)                                          |
+| 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][day-1-shield]](https://github.com/ab-inand/100_Days_DSA/tree/main/DAY_1)                                          |
 |     |                                                                             |                                                                                  |
 |     |                                                                             |                                                                                  |
 |     |                                                                             |                                                                                  |
