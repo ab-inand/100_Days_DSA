@@ -1,16 +1,14 @@
 <div align="center">
+   <img width="1022" height="590" alt=" banner image with a coding theme and the text 'Development'" src="https://github.com/user-attachments/assets/0bb94ed8-163c-4260-b104-baedd34c4ad9" />
 
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/banners/pro.webp" alt="A banner image with a coding theme and the text 'Development'"/>
-   <img width="1022" height="590" alt=" banner image with a coding theme and the text 'Development'c" src="https://github.com/user-attachments/assets/0bb94ed8-163c-4260-b104-baedd34c4ad9" />
+  <h1>100 Days of DSA</h1>
 
-  <h1>100 Days of C++</h1>
-
-  <p>My journey to master C++ one day at a time. This repository documents my daily progress, projects, and key learnings.</p>
+  <p>My journey to master DSA one day at a time. This repository documents my daily progress, projects, and key learnings.</p>
 
   <p>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-1%2F100-brightgreen?style=for-the-badge" alt="Day 2/100 Badge"/>
+    <img src="https://img.shields.io/badge/Day-2%2F100-brightgreen?style=for-the-badge" alt="Day 2/100 Badge"/>
   </p>
 
 </div>
