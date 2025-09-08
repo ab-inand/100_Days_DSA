@@ -22,7 +22,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 
 | Day | Focus / Topics Covered                                                      | View The Code                                                                    |
 |:---:|:----------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][day-1-shield]](https://github.com/ab-inand/100_Days_DSA/tree/main/DAY_1)                                          |
+| 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][day-1-shield]](./DAY_1/)                                         |
 |     |                                                                             |                                                                                  |
 |     |                                                                             |                                                                                  |
 |     |                                                                             |                                                                                  |
