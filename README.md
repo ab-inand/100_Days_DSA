@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-1%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
+    <img src="https://img.shields.io/badge/Day-2%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 
 </div>
@@ -23,7 +23,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | Day | Focus / Topics Covered                                                      | View The Code                                                                    |
 |:---:|:----------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
 | 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][day-1-shield]](./DAY_1/)                                         |
-|     |                                                                             |                                                                                  |
+| 02  | **Arrays**: Declaration, Indexing, Traversal, and Manipulation              | [![Day 02 Code][day-2-shield]](./DAY_2/)                                         |
 |     |                                                                             |                                                                                  |
 |     |                                                                             |                                                                                  |
 
@@ -39,3 +39,4 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 </div>
 
 [day-1-shield]: https://img.shields.io/badge/Code-►-9cf?style=for-the-badge&logo=github
+[day-2-shield]: https://img.shields.io/badge/Code-►-9cf?style=for-the-badge&logo=github
