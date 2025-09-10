@@ -22,9 +22,9 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 
 | Day | Focus / Topics Covered                                                      | View The Code                                                                    |
 |:---:|:----------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][day-1-shield]](./DAY_1/)                                         |
-| 02  | **Arrays**: Declaration, Indexing, Traversal, and Manipulation              | [![Day 02 Code][day-2-shield]](./DAY_2/)                                         |
-|     |                                                                             |                                                                                  |
+| 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][shield]](./DAY_1/)                                               |
+| 02  | **Arrays**: Declaration, Indexing, Traversal, and Manipulation              | [![Day 02 Code][shield]](./DAY_2/)                                               |
+| 03  | **Strings & Pointers**: Operations, Memory Addresses, & Dereferencing       | [![Day 03 Code][shield]](./DAY_3/)                                               |
 |     |                                                                             |                                                                                  |
 
 ---
@@ -38,5 +38,5 @@ This log is a high-level overview of the topics covered each day. Detailed notes
   </p>
 </div>
 
-[day-1-shield]: https://img.shields.io/badge/Code-►-9cf?style=for-the-badge&logo=github
-[day-2-shield]: https://img.shields.io/badge/Code-►-9cf?style=for-the-badge&logo=github
+[shield]: https://img.shields.io/badge/Code-►-9cf?style=for-the-badge&logo=github
+
