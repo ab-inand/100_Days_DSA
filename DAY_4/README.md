@@ -1,5 +1,3 @@
-Here are your notes and resources for Day 4.
-
 ### 📝 Day 4: Review & Complexity Analysis Notes
 
 -----
