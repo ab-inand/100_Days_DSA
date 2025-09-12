@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-4%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
+    <img src="https://img.shields.io/badge/Day-5%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 
 </div>
@@ -26,7 +26,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 02  | **Arrays**: Declaration, Indexing, Traversal, and Manipulation              | [![Day 02 Code][shield]](./DAY_2/)                                               |
 | 03  | **Strings & Pointers**: Operations, Memory Addresses, & Dereferencing       | [![Day 03 Code][shield]](./DAY_3/)                                               |
 | 04  | **Review & Big O**: Sorting, Pointers, and Time/Space Complexity Analysis   | [![Day 04 Code][shield]](./DAY_4/)                                               |
-
+| 05  | **Searching Algorithms**: Linear Search O(n) vs. Binary Search O(log n)     | [![Day 05 Code][shield]](./DAY_5/)                                               |
 ---
 
 <div align="center">
