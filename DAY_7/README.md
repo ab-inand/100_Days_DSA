@@ -1,4 +1,4 @@
-### 📝 Day 7: Insertion Sort Notes
+### 📝 Day 7: Insertion Sort 
 
 **Insertion Sort** is a simple, in-place sorting algorithm that builds the final sorted array one item at a time. It's particularly efficient for small datasets or datasets that are already substantially sorted.
 
