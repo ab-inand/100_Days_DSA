@@ -1,7 +1,7 @@
 <div align="center">
    <img width="1022" height="590" alt=" banner image with a coding theme and the text 'Development'" src="https://github.com/user-attachments/assets/0bb94ed8-163c-4260-b104-baedd34c4ad9" />
 
-  <h1>100 Days of DSA</h1>
+  <h1>Mastering DSA in C++: A 100-Day Challenge</h1>
 
   <p>My journey to master DSA one day at a time. This repository documents my daily progress, projects, and key learnings.</p>
 
