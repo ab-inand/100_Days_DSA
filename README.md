@@ -29,7 +29,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 05  | **Searching Algorithms**: Linear Search O(n) vs. Binary Search O(log n)     | [![Day 05 Code][shield]](./DAY_5/)                                               |
 | 06  | **Basic Sorting**: Bubble Sort (O(n²)) & Selection Sort (O(n²))             | [![Day 06 Code][shield]](./DAY_6/)                                               |
 | 07  | **Insertion Sort**: O(n) Best Case, Card Sorting Analogy                    | [![Day 07 Code][shield]](./DAY_7/)                                               |
-| 08  | **Week 1 Review**: Algorithm Comparison & Two-Pointer Technique             | [![Day 08 Code][shield]](./Day_8/)                                               |
+| 08  | **Week 1 Review**: Algorithm Comparison & Two-Pointer Technique             | [![Day 08 Code][shield]](./DAY_8/)                                               |
 ---
 
 <div align="center">
