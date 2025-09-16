@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-8%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
+    <img src="https://img.shields.io/badge/Day-9%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 
 </div>
@@ -30,6 +30,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 06  | **Basic Sorting**: Bubble Sort (O(n²)) & Selection Sort (O(n²))             | [![Day 06 Code][shield]](./DAY_6/)                                               |
 | 07  | **Insertion Sort**: O(n) Best Case, Card Sorting Analogy                    | [![Day 07 Code][shield]](./DAY_7/)                                               |
 | 08  | **Week 1 Review**: Algorithm Comparison & Two-Pointer Technique             | [![Day 08 Code][shield]](./DAY_8/)                                               |
+| 09  | **Pointers & Arrays**: Pointer Arithmetic, `arr[i]` vs `*(arr + i)`         | [![Day 09 Code][shield]](./DAY_9/)                                               |
 ---
 
 <div align="center">
