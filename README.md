@@ -25,7 +25,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 01  | **C++ Fundamentals**: Variables, I/O, Conditionals, Loops, & Functions      | [![Day 01 Code][shield]](./DAY_1/)                                               |
 | 02  | **Arrays**: Declaration, Indexing, Traversal, and Manipulation              | [![Day 02 Code][shield]](./DAY_2/)                                               |
 | 03  | **Strings & Pointers**: Operations, Memory Addresses, & Dereferencing       | [![Day 03 Code][shield]](./DAY_3/)                                               |
-| 04  | **Review & Big O**: Sorting, Pointers, and Time/Space Complexity Analysis   | [![Day 04 Code][shield]](./DAY_4/)                                               |
+| 04  | **Review & Big O**: Core Concepts and Time/Space Complexity Analysis        | [![Day 04 Code][shield]](./DAY_4/)                                               |
 | 05  | **Searching Algorithms**: Linear Search O(n) vs. Binary Search O(log n)     | [![Day 05 Code][shield]](./DAY_5/)                                               |
 | 06  | **Basic Sorting**: Bubble Sort (O(n²)) & Selection Sort (O(n²))             | [![Day 06 Code][shield]](./DAY_6/)                                               |
 | 07  | **Insertion Sort**: O(n) Best Case, Card Sorting Analogy                    | [![Day 07 Code][shield]](./DAY_7/)                                               |
