@@ -31,7 +31,8 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 07  | **Insertion Sort**: O(n) Best Case, Card Sorting Analogy                    | [![Day 07 Code][shield]](./DAY_7/)                                               |
 | 08  | **Week 1 Review**: Algorithm Comparison & Two-Pointer Technique             | [![Day 08 Code][shield]](./DAY_8/)                                               |
 | 09  | **Pointers & Arrays**: Pointer Arithmetic, `arr[i]` vs `*(arr + i)`         | [![Day 09 Code][shield]](./DAY_9/)                                               |
-| 10  | **Dynamic Memory**: Stack vs. Heap, `new`, `delete`, Memory Leaks           | [![Day 10 Code][shield]](./DAY10/)                                              |
+| 10  | **Dynamic Memory**: Stack vs. Heap, `new`, `delete`, Memory Leaks           | [![Day 10 Code][shield]](./DAY10/)                                               |
+| 11  | **Recursion**: Base Case, Recursive Step, and the Call Stack                | [![Day 11 Code][shield]](./DAY_11/)                                              |
 ---
 
 <div align="center">
