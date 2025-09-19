@@ -1,0 +1,30 @@
+name: Generate cyberpunk snake animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:          # allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ab-inand
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+          color_snake: "#00FFFF"   # neon cyan snake
+          color_dots: "#2e0057,#5b0067,#8f00a1,#d300ff,#ff77ff"  # cyberpunk gradient
+
+      - name: Commit and push generated files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update snake animation"
+          file_pattern: output/github-contribution-grid-snake*.svg
