@@ -1,9 +1,9 @@
 <div align="center">
    <img width="1022" height="590" alt=" banner image with a coding theme and the text 'Development'" src="https://github.com/user-attachments/assets/0bb94ed8-163c-4260-b104-baedd34c4ad9" />
-
+   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+Mastering+DSA+in+C%2B%2B+%7C+100-Day+Challenge;📚+Building+Logic+One+Day+at+a+Time;🔥+Consistency+%3D+Growth" alt="Typing SVG" />
   <h1>Mastering DSA in C++: A 100-Day Challenge</h1>
 
-  <p>My journey to master DSA one day at a time. This repository documents my daily progress, projects, and key learnings.</p>
+  <p>Documenting my journey of consistency, problem-solving, and mastering DSA with C++.</p>
 
   <p>
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
@@ -44,6 +44,13 @@ This log is a high-level overview of the topics covered each day. Detailed notes
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </p>
 </div>
+
+---
+## 💡 Motivation  
+
+> "Consistency beats intensity. A little progress every day builds up to massive success." 🚀  
+
+---
 
 [shield]: https://img.shields.io/badge/Code-►-9cf?style=for-the-badge&logo=github
 
