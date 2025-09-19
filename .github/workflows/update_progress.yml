@@ -1,0 +1,44 @@
+# .github/workflows/update_progress.yml
+
+name: Update DSA Progress
+
+on:
+  push:
+    branches:
+      - main # Or your default branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Calculate Progress
+        id: progress
+        run: |
+          # Count directories starting with DAY_ case-insensitively
+          day_count=$(find . -maxdepth 1 -type d -iname 'DAY_*' | wc -l)
+          echo "DAY_COUNT=${day_count}" >> $GITHUB_OUTPUT
+
+          # Calculate percentage
+          percentage=$((day_count * 100 / 100))
+          echo "PERCENTAGE=${percentage}" >> $GITHUB_OUTPUT
+
+          # Generate progress bar string (20 characters wide)
+          filled_length=$((percentage / 5))
+          empty_length=$((20 - filled_length))
+          progress_bar=$(printf "%${filled_length}s" "" | tr ' ' '█')$(printf "%${empty_length}s" "" | tr ' ' '░')
+          echo "PROGRESS_BAR=${progress_bar}" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          # Replace the placeholder for the Day Counter and Progress Bar
+          sed -i "s|.*|\n\`\`\`[${{ steps.progress.outputs.PROGRESS_BAR }}] ${{ steps.progress.outputs.PERCENTAGE }}%\`\`\`|" README.md
+          sed -i "s|/badge/Day-.*-brightgreen|/badge/Day-${{ steps.progress.outputs.DAY_COUNT }}%2F100-brightgreen|" README.md
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update DSA progress"
+          file_pattern: README.md
