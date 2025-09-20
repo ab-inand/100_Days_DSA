@@ -52,6 +52,29 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 > "Consistency beats intensity. A little progress every day builds up to massive success." 🚀  
 
 ---
+## 📞 Let's Connect & Grow Together!
+
+<div align="center">
+
+**Ready to join this journey or share your own?**
+
+<p>
+  <a href="https://www.linkedin.com/in/abhinandshashendran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:22abhinand@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ab-inand"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+**⭐ Star this repo if you find it inspiring!**  
+**🍴 Fork it to start your own 100-day challenge!**
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
 
 [shield]: https://img.shields.io/badge/Code-►-9cf?style=for-the-badge&logo=github
+
 
