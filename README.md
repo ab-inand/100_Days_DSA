@@ -36,6 +36,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 12  | **Recursive Thinking**: Tracing the Call Stack, Leap of Faith               | [![Day 12 Code][shield]](./DAY_12/)                                              |
 | 13  | **Merge Sort**: Divide and Conquer, O(n log n) Time, O(n) Space             | [![Day 13 Code][shield]](./DAY_13/)                                              |
 | 14  | **Quick Sort**: Partitioning, Pivot, O(n log n) Average, In-Place           | [![Day 14 Code][shield]](./DAY_14/)                                              |
+| 15  | **Week 2 Review**: Quick Sort vs. Merge Sort, QuickSelect Algorithm         | [![Day 15 Code][shield]](./DAY_15/)                                              |
 ---
 
 <div align="center">
