@@ -37,6 +37,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 13  | **Merge Sort**: Divide and Conquer, O(n log n) Time, O(n) Space             | [![Day 13 Code][shield]](./DAY_13/)                                              |
 | 14  | **Quick Sort**: Partitioning, Pivot, O(n log n) Average, In-Place           | [![Day 14 Code][shield]](./DAY_14/)                                              |
 | 15  | **Week 2 Review**: Quick Sort vs. Merge Sort, QuickSelect Algorithm         | [![Day 15 Code][shield]](./DAY_15/)                                              |
+| 16  | **C++ STL**: `std::vector`, Automatic Memory, Iterators                     | [![Day 16 Code][shield]](./DAY_16/)                                              |
 ---
 
 <div align="center">
