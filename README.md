@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-16%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
+    <img src="https://img.shields.io/badge/Day-17%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 
 </div>
@@ -38,6 +38,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 14  | **Quick Sort**: Partitioning, Pivot, O(n log n) Average, In-Place           | [![Day 14 Code][shield]](./DAY_14/)                                              |
 | 15  | **Week 2 Review**: Quick Sort vs. Merge Sort, QuickSelect Algorithm         | [![Day 15 Code][shield]](./DAY_15/)                                              |
 | 16  | **C++ STL**: `std::vector`, Automatic Memory, Iterators                     | [![Day 16 Code][shield]](./DAY_16/)                                              |
+| 17  | **C++ STL Iterators**: Manual Loops, Range-Based `for`, and `auto`          | [![Day 17 Code][shield]](./DAY_17/)                                              |
 ---
 
 <div align="center">
