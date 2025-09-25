@@ -39,6 +39,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 15  | **Week 2 Review**: Quick Sort vs. Merge Sort, QuickSelect Algorithm         | [![Day 15 Code][shield]](./DAY_15/)                                              |
 | 16  | **C++ STL**: `std::vector`, Automatic Memory, Iterators                     | [![Day 16 Code][shield]](./DAY_16/)                                              |
 | 17  | **C++ STL Iterators**: Manual Loops, Range-Based `for`, and `auto`          | [![Day 17 Code][shield]](./DAY_17/)                                              |
+| 18  | **Hashing Theory**: Hash Functions, Tables, and Collision Handling          | [![Day 18 Code][shield]](./DAY_18/)                                              |
 ---
 
 <div align="center">
