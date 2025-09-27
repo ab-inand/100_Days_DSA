@@ -41,6 +41,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 17  | **C++ STL Iterators**: Manual Loops, Range-Based `for`, and `auto`          | [![Day 17 Code][shield]](./DAY_17/)                                              |
 | 18  | **Hashing Theory**: Hash Functions, Tables, and Collision Handling          | [![Day 18 Code][shield]](./DAY_18/)                                              |
 | 19  | **C++ STL**: `unordered_map` (Hash Map), Frequency Counting                 | [![Day 19 Code][shield]](./DAY_19/)                                              |
+| 20  | **Heap Problems**: Merge K Sorted Arrays, Median from Data Stream           | [![Day 20 Code][shield]](./DAY_20/)                                              |
 ---
 
 <div align="center">
