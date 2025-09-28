@@ -42,6 +42,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 18  | **Hashing Theory**: Hash Functions, Tables, and Collision Handling          | [![Day 18 Code][shield]](./DAY_18/)                                              |
 | 19  | **C++ STL**: `unordered_map` (Hash Map), Frequency Counting                 | [![Day 19 Code][shield]](./DAY_19/)                                              |
 | 20  | **Heap Problems**: Merge K Sorted Arrays, Median from Data Stream           | [![Day 20 Code][shield]](./DAY_20/)                                              |
+| 21  | **C++ STL**: `unordered_set` (Hash Set), Uniqueness, Subset Problem         | [![Day 21 Code][day-21-shield]](./Day21/)                                         |
 ---
 
 <div align="center">
