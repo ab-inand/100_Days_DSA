@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-22%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
+    <img src="https://img.shields.io/badge/Day-23%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 
 </div>
@@ -44,6 +44,8 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 20  | **Heap Problems**: Merge K Sorted Arrays, Median from Data Stream           | [![Day 20 Code][shield]](./DAY_20/)                                              |
 | 21  | **C++ STL**: `unordered_set` (Hash Set), Uniqueness, Subset Problem         | [![Day 21 Code][shield]](./DAY_21/)                                              |
 | 22  | **Week 3 Review**: STL Containers (`vector`, `unordered_map`, `unordered_set`) | [![Day 22 Code][shield]](./DAY_22/)                                           |
+| 23  | **Linked Lists**: Nodes, Pointers, Traversal, Array vs. List                | [![Day 23 Code][shield]](./Day23/)                                               |
+
 ---
 
 <div align="center">
