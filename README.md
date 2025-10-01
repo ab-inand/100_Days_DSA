@@ -45,7 +45,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 21  | **C++ STL**: `unordered_set` (Hash Set), Uniqueness, Subset Problem         | [![Day 21 Code][shield]](./DAY_21/)                                              |
 | 22  | **Week 3 Review**: STL Containers (`vector`, `unordered_map`, `unordered_set`) | [![Day 22 Code][shield]](./DAY_22/)                                           |
 | 23  | **Linked Lists**: Nodes, Pointers, Traversal, Array vs. List                | [![Day 23 Code][shield]](./Day23/)                                               |
-
+| 24  | **Linked List Operations**: Insertion at Head (O(1)) and Tail (O(n))        | [![Day 24 Code][shield]](./DAY_24/)                                              |
 ---
 
 <div align="center">
