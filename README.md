@@ -46,6 +46,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 22  | **Week 3 Review**: STL Containers (`vector`, `unordered_map`, `unordered_set`) | [![Day 22 Code][shield]](./DAY_22/)                                           |
 | 23  | **Linked Lists**: Nodes, Pointers, Traversal, Array vs. List                | [![Day 23 Code][shield]](./Day23/)                                               |
 | 24  | **Linked List Operations**: Insertion at Head (O(1)) and Tail (O(n))        | [![Day 24 Code][shield]](./DAY_24/)                                              |
+| 25  | **Linked List Operations**: Deletion of Head and by Key                     | [![Day 25 Code][shield]](./DAY_25/)                                              |
 ---
 
 <div align="center">
