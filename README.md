@@ -48,6 +48,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 24  | **Linked List Operations**: Insertion at Head (O(1)) and Tail (O(n))        | [![Day 24 Code][shield]](./DAY_24/)                                              |
 | 25  | **Linked List Operations**: Deletion of Head and by Key                     | [![Day 25 Code][shield]](./DAY_25/)                                              |
 | 26  | **Linked List Patterns**: Reversal & Finding the Middle Element             | [![Day 26 Code][shield]](./DAY_26/)                                              |
+| 27  | **Doubly Linked Lists**: `prev` pointer, Bidirectional Traversal            | [![Day 27 Code][shield]](./DAY_27/)                                         |
 ---
 
 <div align="center">
