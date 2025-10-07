@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-29%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
+    <img src="https://img.shields.io/badge/Day-30%2F100-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 
 </div>
@@ -51,6 +51,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 27  | **Doubly Linked Lists**: `prev` pointer, Bidirectional Traversal            | [![Day 27 Code][shield]](./DAY_27/)                                              |
 | 28  | **Stacks**: LIFO Principle, Array/Vector Implementation                     | [![Day 28 Code][shield]](./DAY_28/)                                              |
 | 29  | **Week 4 Review**: Linked Lists, Stacks, `std::stack`, Valid Parentheses    | [![Day 29 Code][shield]](./DAY_29/)                                              |
+
 
 ---
 
