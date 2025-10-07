@@ -51,7 +51,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 27  | **Doubly Linked Lists**: `prev` pointer, Bidirectional Traversal            | [![Day 27 Code][shield]](./DAY_27/)                                              |
 | 28  | **Stacks**: LIFO Principle, Array/Vector Implementation                     | [![Day 28 Code][shield]](./DAY_28/)                                              |
 | 29  | **Week 4 Review**: Linked Lists, Stacks, `std::stack`, Valid Parentheses    | [![Day 29 Code][shield]](./DAY_29/)                                              |
-
+| 30  | **Queues**: FIFO Principle, Circular Array Implementation                   | [![Day 30 Code][shield]](./DAY_30/)                                              |
 
 ---
 
